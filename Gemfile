@@ -26,6 +26,9 @@ gem 'simple_form'
 gem 'protected_attributes' 
 gem "paperclip", "~> 3.0"
 gem 'aws-sdk'
+gem 'faker', '1.1.2'
+gem 'will_paginate', '3.0.3'
+gem 'bootstrap-will_paginate', '0.0.6'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
